@@ -1,4 +1,4 @@
-# border-radius-creator
+# border_radius_creator
 
  <h1>A border radius creator made in Javascript</h1>
 
