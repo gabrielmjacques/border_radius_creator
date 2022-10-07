@@ -1,4 +1,4 @@
-# border-radius-creator
+<div align="center">
 
  <h1>A border radius creator made in Javascript</h1>
 
